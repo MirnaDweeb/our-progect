@@ -2,7 +2,7 @@ import React from "react";
 import'./Contact.css'
 function Contact() {
     return (
-        <div>
+        <div className="podycont">
             <body class="w3-light-gray">
     <div class="contact">
         <h1> CONTACT ME</h1>

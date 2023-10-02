@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .skillsbody{
-    background-color: rgb(6, 28, 48);
+    background-color: rgb(255, 255, 255);
 }
 .skills-someword{
     color: aliceblue;
@@ -13,7 +13,7 @@
 .skills{
     width: 100%;
     margin: 200px 50px 20px 50px;
-    color: white;
+    color: rgb(12, 12, 12);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     font-weight: bold;
@@ -33,7 +33,7 @@
     color: gray;
 }
 .left-skills dl{
-    color: white;
+    color: rgb(11, 11, 11);
     font-size: 12px;
 }
 .left-skills dl i{
@@ -64,7 +64,7 @@
 
 .right-skills{
     float: left;
-    color: white;
+    color: rgb(15, 15, 15);
     position: relative;
 }
 .right-skills .row{
@@ -72,7 +72,7 @@
    height: 17px;
    margin: 10px 0px ;
 }
-.right-skills::after{
+/* .right-skills::after{
     content: "";
     clear: both;
     display: table;
@@ -82,7 +82,7 @@
     clear: both;
     display: table;
     
-}
+} */
 
 #Discover{
     position: absolute;

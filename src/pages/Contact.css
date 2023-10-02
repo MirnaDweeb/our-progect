@@ -1,4 +1,4 @@
-body{
+.bodycont{
     background-color: rgb(251, 253, 255);
   
   }
@@ -149,4 +149,54 @@ body{
   .col{
     color:black;
   }
+  @media (max-width:576px){
+
+    .contact{
+     margin-left: 250px;
+     width: 800px;
+     font-size: 40px;
+     order: 1;
+    }
+
+   
+.contact1{
+  display: block;
   
+  width: 500px!important;
+
+  margin-left: 300px;
+  order: 2 !important;
+}
+.sec1{
+  display: flex !important;
+  
+  justify-content: center !important;
+  order: 3 !important;
+}
+.last{
+  width: 350%;
+  background-color: rgb(246, 248, 249);
+  height: 250px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 50px;
+  text-align: center;
+}
+.close{
+  display:grid;
+  /* margin-top: 80px; */
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  
+}.Copyrightt{
+  
+  width:700px;
+  margin-left: 300px;
+}
+.sec1{
+display: inline-block;
+}
+.sec1{
+align-items: center;
+}
+}

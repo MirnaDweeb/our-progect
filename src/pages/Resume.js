@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './Resume.css'
-import{Link} from 'react-router-dom'
+//import{Link} from 'react-router-dom'
 
 
 
@@ -15,9 +15,12 @@ class Resume extends React.Component {
                     <div class="l2"></div>
                     <div class="l3"></div>
 
-                    <b><Link to="/skills">skills</Link></b>
+                    {/* <b><Link to="/skills">skills</Link></b>
                     <b><Link to="/resume">resume</Link></b>
                     <b><Link to="/contact">contact</Link></b>
+                    <b><Link to="/about">About</Link></b>
+                    <b><Link to="/home">Home</Link></b> */}
+
 
 
 
