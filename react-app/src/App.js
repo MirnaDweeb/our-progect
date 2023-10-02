@@ -10,11 +10,11 @@ import './App.css';
 // import { faHatChef } from '@fortawesome/sharp-solid-svg-icons'
 //import { faPlateUtensils } from '@fortawesome/sharp-regular-svg-icons'
 import Content1 from './components/key accom.js';
-import Content2 from './components/key accom cont2.js';
-import Content3 from './components/key accom cont3.js';
-import Content4 from './components/key accom cont4.js';
-import Content5 from './components/key accom cont5.js';
-import Content6 from './components/key accom cont6.js';
+// import Content2 from './components/key accom cont2.js';
+// import Content3 from './components/key accom cont3.js';
+// import Content4 from './components/key accom cont4.js';
+// import Content5 from './components/key accom cont5.js';
+// import Content6 from './components/key accom cont6.js';
 //import { faDesktop } from '@fortawesome/free-solid-svg-icons';
 // library.add(fas, faTwitter, faFontAwesome, faHatCowboy, faHatChef);
 
@@ -46,11 +46,11 @@ render(){
             <h1 className='font'> Key Accomplishments</h1>
             <p>Lorem Ipsum is simply dummy text <br/> of spring</p>
             <Content1/>
-            <Content2/>
+            {/* <Content2/>
             <Content3/>
             <Content4/>
             <Content5/>
-            <Content6/>
+            <Content6/> */}
         </div>
             );
 
