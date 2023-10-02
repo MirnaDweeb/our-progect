@@ -1,0 +1,152 @@
+body{
+    background-color: rgb(251, 253, 255);
+  
+  }
+  a.btn:link , a.btn:visited{
+      background-color:rgb(49, 184, 234);
+      color: white;
+      padding: 10px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      border-radius: 4px;
+      font-size: 13px;
+      font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+    }
+    a.btn:hover, a.btn:active{
+      background-color: rgb(43, 127, 179);}
+     
+   .contact   h1{
+    text-align: center;
+    color: rgb(4, 4, 26);
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+  
+   }
+   .contact  p{
+      text-align: center; 
+      font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+   }
+   .contact1{
+  margin-right: 150px;
+   }
+   
+   .Follow{
+   margin-top: 50px;
+   font-family: 'Montserrat', sans-serif;
+   font-family: 'Open Sans', sans-serif;
+   
+   }
+   .one{
+    color: rgb(49, 184, 234);
+   }
+   .two{
+    color:rgb(49, 184, 234); 
+    margin-bottom: 50px;
+    margin: 3px 3px;
+   }
+  .info{
+    font-size: 25px;
+    
+  }
+  .close{
+    display: flex;
+    margin-top: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    
+  }
+  .first{
+  padding-left:250px ;
+  padding-right: 140px;
+  margin-bottom: 100px;
+  }
+  .mystyle{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  }
+  .inputs{
+    width: 640px;
+    height: 38px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .num, .email{
+    height: 38px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border: none;
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .mytextarea{
+    width: 640px;
+    height: 150px;
+  
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .email{
+  bottom: 5px;
+  }
+  .last{
+    width: 100%;
+    background-color: rgb(246, 248, 249);
+    height: 250px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .address{
+    font-size: 17px;
+  }
+  .hrr{
+    width: 1100px;
+    margin-bottom: 40px;
+   
+  
+  }
+  .emaill{
+  margin-left: 220px;
+  }
+
+  input::placeholder,textarea::placeholder{
+    color: rgb(192, 187, 179);
+    padding-left: 20px;
+  }
+  textarea::placeholder{
+    padding-top: 10px;
+  }
+  .three{
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(49, 184, 234);
+    text-align: center;
+    border-radius: 50%;
+    color: aliceblue;
+    margin: 0px 2px;
+  }
+  .word{
+    color: rgb(49, 184, 234);
+  }
+  .Copyrightt{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 30px;
+    color: #b8bfcc;
+  }
+  .col{
+    color: black;
+  }
+  
