@@ -17,10 +17,12 @@ class Content1 extends Component{
     render(){
 
         return(
+            <div>
             <div className='content1'>
                <FontAwesomeIcon  className="icon" icon={faDesktop}></FontAwesomeIcon>
               <h1>Web Design</h1>
               <p>Lorem ipsum dolor sit amet consectetur <br/> adipisicing elit. Odio recusandae expedita ullam <br/>ipsa, esse voluptas fugiat </p>
+              </div>
               <div className='content2'>
             <FontAwesomeIcon  className="icon" icon={ faFileCode}></FontAwesomeIcon>
            <h1>Web Development</h1>
